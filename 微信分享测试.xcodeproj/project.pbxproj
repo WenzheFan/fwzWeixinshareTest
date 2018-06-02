@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18169F3C20C2207900DA944F /* 银临 - 棠梨煎雪.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 18169F3B20C2207900DA944F /* 银临 - 棠梨煎雪.mp3 */; };
 		186DDB2D20C14F0F00632288 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 186DDB2C20C14F0F00632288 /* AppDelegate.m */; };
 		186DDB3020C14F0F00632288 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 186DDB2F20C14F0F00632288 /* ViewController.m */; };
 		186DDB3320C14F0F00632288 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB3120C14F0F00632288 /* Main.storyboard */; };
@@ -15,6 +16,28 @@
 		186DDB3B20C14F1000632288 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 186DDB3A20C14F1000632288 /* main.m */; };
 		186DDB4520C14F1000632288 /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 186DDB4420C14F1000632288 /* ______Tests.m */; };
 		186DDB5020C14F1000632288 /* ______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 186DDB4F20C14F1000632288 /* ______UITests.m */; };
+		186DDB7120C158E300632288 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB5E20C158E200632288 /* Default@2x.png */; };
+		186DDB7220C158E300632288 /* res1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB5F20C158E200632288 /* res1.jpg */; };
+		186DDB7320C158E300632288 /* res2.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6020C158E200632288 /* res2.png */; };
+		186DDB7420C158E300632288 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6120C158E200632288 /* Icon@2x.png */; };
+		186DDB7520C158E300632288 /* res6thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6220C158E200632288 /* res6thumb.png */; };
+		186DDB7620C158E300632288 /* 1234.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6320C158E200632288 /* 1234.jpg */; };
+		186DDB7720C158E300632288 /* res2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6420C158E200632288 /* res2.jpg */; };
+		186DDB7820C158E300632288 /* lindan.gif in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6520C158E200632288 /* lindan.gif */; };
+		186DDB7920C158E300632288 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6620C158E200632288 /* Default.png */; };
+		186DDB7A20C158E300632288 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6720C158E200632288 /* Default-568h@2x.png */; };
+		186DDB7B20C158E300632288 /* ML.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6820C158E200632288 /* ML.pdf */; };
+		186DDB7C20C158E300632288 /* res5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6920C158E200632288 /* res5.jpg */; };
+		186DDB7D20C158E300632288 /* res5thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6A20C158E200632288 /* res5thumb.png */; };
+		186DDB7E20C158E300632288 /* res3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6B20C158E200632288 /* res3.jpg */; };
+		186DDB7F20C158E300632288 /* res4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6C20C158E200632288 /* res4.jpg */; };
+		186DDB8020C158E300632288 /* micro_messenger.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6D20C158E300632288 /* micro_messenger.png */; };
+		186DDB8120C158E300632288 /* res6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6E20C158E300632288 /* res6.gif */; };
+		186DDB8220C158E300632288 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB6F20C158E300632288 /* Icon.png */; };
+		186DDB8320C158E300632288 /* res7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186DDB7020C158E300632288 /* res7.jpg */; };
+		284A7B3810FF549789F1CBDD /* libPods-微信分享测试Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CE95BA3CCD94D655F370090 /* libPods-微信分享测试Tests.a */; };
+		808FBEB38FAC902B45A688B5 /* libPods-微信分享测试UITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA930D424CFEF881E0E99615 /* libPods-微信分享测试UITests.a */; };
+		F7E48572D9EB90A6C5A2140E /* libPods-微信分享测试.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F8EB697F4EA0AA77232ABC8B /* libPods-微信分享测试.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +58,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0CE95BA3CCD94D655F370090 /* libPods-微信分享测试Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-微信分享测试Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18169F3B20C2207900DA944F /* 银临 - 棠梨煎雪.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "银临 - 棠梨煎雪.mp3"; sourceTree = "<group>"; };
+		18169F5220C2463900DA944F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		186DDB2820C14F0F00632288 /* 微信分享测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "微信分享测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		186DDB2B20C14F0F00632288 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		186DDB2C20C14F0F00632288 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +77,33 @@
 		186DDB4B20C14F1000632288 /* 微信分享测试UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "微信分享测试UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		186DDB4F20C14F1000632288 /* ______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "______UITests.m"; sourceTree = "<group>"; };
 		186DDB5120C14F1000632288 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		186DDB5E20C158E200632288 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		186DDB5F20C158E200632288 /* res1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res1.jpg; sourceTree = "<group>"; };
+		186DDB6020C158E200632288 /* res2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = res2.png; sourceTree = "<group>"; };
+		186DDB6120C158E200632288 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		186DDB6220C158E200632288 /* res6thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = res6thumb.png; sourceTree = "<group>"; };
+		186DDB6320C158E200632288 /* 1234.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1234.jpg; sourceTree = "<group>"; };
+		186DDB6420C158E200632288 /* res2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res2.jpg; sourceTree = "<group>"; };
+		186DDB6520C158E200632288 /* lindan.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = lindan.gif; sourceTree = "<group>"; };
+		186DDB6620C158E200632288 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		186DDB6720C158E200632288 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		186DDB6820C158E200632288 /* ML.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ML.pdf; sourceTree = "<group>"; };
+		186DDB6920C158E200632288 /* res5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res5.jpg; sourceTree = "<group>"; };
+		186DDB6A20C158E200632288 /* res5thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = res5thumb.png; sourceTree = "<group>"; };
+		186DDB6B20C158E200632288 /* res3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res3.jpg; sourceTree = "<group>"; };
+		186DDB6C20C158E200632288 /* res4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res4.jpg; sourceTree = "<group>"; };
+		186DDB6D20C158E300632288 /* micro_messenger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = micro_messenger.png; sourceTree = "<group>"; };
+		186DDB6E20C158E300632288 /* res6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = res6.gif; sourceTree = "<group>"; };
+		186DDB6F20C158E300632288 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		186DDB7020C158E300632288 /* res7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = res7.jpg; sourceTree = "<group>"; };
+		4FB3D1D341D82A1B21743FFB /* Pods-微信分享测试UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试UITests/Pods-微信分享测试UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		818DD8B177B11D10E20BBF5B /* Pods-微信分享测试.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试.debug.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试/Pods-微信分享测试.debug.xcconfig"; sourceTree = "<group>"; };
+		867551ADE7116AF5FDD35D85 /* Pods-微信分享测试UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试UITests/Pods-微信分享测试UITests.release.xcconfig"; sourceTree = "<group>"; };
+		8C357E2E14369D91152CCCF6 /* Pods-微信分享测试Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试Tests/Pods-微信分享测试Tests.release.xcconfig"; sourceTree = "<group>"; };
+		A2D98A60F87BE72E49B82506 /* Pods-微信分享测试Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试Tests/Pods-微信分享测试Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		BA930D424CFEF881E0E99615 /* libPods-微信分享测试UITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-微信分享测试UITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC547A90825C7C2F607656F1 /* Pods-微信分享测试.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-微信分享测试.release.xcconfig"; path = "Pods/Target Support Files/Pods-微信分享测试/Pods-微信分享测试.release.xcconfig"; sourceTree = "<group>"; };
+		F8EB697F4EA0AA77232ABC8B /* libPods-微信分享测试.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-微信分享测试.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +111,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7E48572D9EB90A6C5A2140E /* libPods-微信分享测试.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +119,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				284A7B3810FF549789F1CBDD /* libPods-微信分享测试Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +127,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				808FBEB38FAC902B45A688B5 /* libPods-微信分享测试UITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,10 +137,13 @@
 		186DDB1F20C14F0F00632288 = {
 			isa = PBXGroup;
 			children = (
+				18169F5220C2463900DA944F /* README.md */,
 				186DDB2A20C14F0F00632288 /* 微信分享测试 */,
 				186DDB4320C14F1000632288 /* 微信分享测试Tests */,
 				186DDB4E20C14F1000632288 /* 微信分享测试UITests */,
 				186DDB2920C14F0F00632288 /* Products */,
+				ED66B22638BE62346E6AAE9F /* Pods */,
+				E2380CF1D11630B1C195B733 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +160,7 @@
 		186DDB2A20C14F0F00632288 /* 微信分享测试 */ = {
 			isa = PBXGroup;
 			children = (
+				186DDB5D20C158BB00632288 /* 图片 */,
 				186DDB2B20C14F0F00632288 /* AppDelegate.h */,
 				186DDB2C20C14F0F00632288 /* AppDelegate.m */,
 				186DDB2E20C14F0F00632288 /* ViewController.h */,
@@ -132,6 +192,56 @@
 			path = "微信分享测试UITests";
 			sourceTree = "<group>";
 		};
+		186DDB5D20C158BB00632288 /* 图片 */ = {
+			isa = PBXGroup;
+			children = (
+				18169F3B20C2207900DA944F /* 银临 - 棠梨煎雪.mp3 */,
+				186DDB6320C158E200632288 /* 1234.jpg */,
+				186DDB6720C158E200632288 /* Default-568h@2x.png */,
+				186DDB6620C158E200632288 /* Default.png */,
+				186DDB5E20C158E200632288 /* Default@2x.png */,
+				186DDB6F20C158E300632288 /* Icon.png */,
+				186DDB6120C158E200632288 /* Icon@2x.png */,
+				186DDB6520C158E200632288 /* lindan.gif */,
+				186DDB6D20C158E300632288 /* micro_messenger.png */,
+				186DDB6820C158E200632288 /* ML.pdf */,
+				186DDB5F20C158E200632288 /* res1.jpg */,
+				186DDB6420C158E200632288 /* res2.jpg */,
+				186DDB6020C158E200632288 /* res2.png */,
+				186DDB6B20C158E200632288 /* res3.jpg */,
+				186DDB6C20C158E200632288 /* res4.jpg */,
+				186DDB6920C158E200632288 /* res5.jpg */,
+				186DDB6A20C158E200632288 /* res5thumb.png */,
+				186DDB6E20C158E300632288 /* res6.gif */,
+				186DDB6220C158E200632288 /* res6thumb.png */,
+				186DDB7020C158E300632288 /* res7.jpg */,
+			);
+			path = "图片";
+			sourceTree = "<group>";
+		};
+		E2380CF1D11630B1C195B733 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F8EB697F4EA0AA77232ABC8B /* libPods-微信分享测试.a */,
+				0CE95BA3CCD94D655F370090 /* libPods-微信分享测试Tests.a */,
+				BA930D424CFEF881E0E99615 /* libPods-微信分享测试UITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ED66B22638BE62346E6AAE9F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				818DD8B177B11D10E20BBF5B /* Pods-微信分享测试.debug.xcconfig */,
+				CC547A90825C7C2F607656F1 /* Pods-微信分享测试.release.xcconfig */,
+				A2D98A60F87BE72E49B82506 /* Pods-微信分享测试Tests.debug.xcconfig */,
+				8C357E2E14369D91152CCCF6 /* Pods-微信分享测试Tests.release.xcconfig */,
+				4FB3D1D341D82A1B21743FFB /* Pods-微信分享测试UITests.debug.xcconfig */,
+				867551ADE7116AF5FDD35D85 /* Pods-微信分享测试UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,6 +249,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 186DDB5420C14F1000632288 /* Build configuration list for PBXNativeTarget "微信分享测试" */;
 			buildPhases = (
+				9FD570253C8CFEFED9CC041D /* [CP] Check Pods Manifest.lock */,
 				186DDB2420C14F0F00632288 /* Sources */,
 				186DDB2520C14F0F00632288 /* Frameworks */,
 				186DDB2620C14F0F00632288 /* Resources */,
@@ -156,6 +267,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 186DDB5720C14F1000632288 /* Build configuration list for PBXNativeTarget "微信分享测试Tests" */;
 			buildPhases = (
+				14F51558BDB121B8F0C043F0 /* [CP] Check Pods Manifest.lock */,
 				186DDB3C20C14F1000632288 /* Sources */,
 				186DDB3D20C14F1000632288 /* Frameworks */,
 				186DDB3E20C14F1000632288 /* Resources */,
@@ -174,6 +286,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 186DDB5A20C14F1000632288 /* Build configuration list for PBXNativeTarget "微信分享测试UITests" */;
 			buildPhases = (
+				AB7C0A578E2D16469AFF3B5A /* [CP] Check Pods Manifest.lock */,
 				186DDB4720C14F1000632288 /* Sources */,
 				186DDB4820C14F1000632288 /* Frameworks */,
 				186DDB4920C14F1000632288 /* Resources */,
@@ -235,9 +348,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				186DDB7520C158E300632288 /* res6thumb.png in Resources */,
+				186DDB7C20C158E300632288 /* res5.jpg in Resources */,
+				186DDB7820C158E300632288 /* lindan.gif in Resources */,
+				186DDB7720C158E300632288 /* res2.jpg in Resources */,
+				186DDB7120C158E300632288 /* Default@2x.png in Resources */,
+				186DDB7620C158E300632288 /* 1234.jpg in Resources */,
+				186DDB7220C158E300632288 /* res1.jpg in Resources */,
+				186DDB7420C158E300632288 /* Icon@2x.png in Resources */,
+				186DDB7920C158E300632288 /* Default.png in Resources */,
+				186DDB7E20C158E300632288 /* res3.jpg in Resources */,
 				186DDB3820C14F1000632288 /* LaunchScreen.storyboard in Resources */,
+				186DDB7A20C158E300632288 /* Default-568h@2x.png in Resources */,
+				186DDB8220C158E300632288 /* Icon.png in Resources */,
+				186DDB8120C158E300632288 /* res6.gif in Resources */,
 				186DDB3520C14F1000632288 /* Assets.xcassets in Resources */,
+				186DDB7F20C158E300632288 /* res4.jpg in Resources */,
+				186DDB7B20C158E300632288 /* ML.pdf in Resources */,
 				186DDB3320C14F0F00632288 /* Main.storyboard in Resources */,
+				18169F3C20C2207900DA944F /* 银临 - 棠梨煎雪.mp3 in Resources */,
+				186DDB8320C158E300632288 /* res7.jpg in Resources */,
+				186DDB7320C158E300632288 /* res2.png in Resources */,
+				186DDB7D20C158E300632288 /* res5thumb.png in Resources */,
+				186DDB8020C158E300632288 /* micro_messenger.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +389,63 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		14F51558BDB121B8F0C043F0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-微信分享测试Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9FD570253C8CFEFED9CC041D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-微信分享测试-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AB7C0A578E2D16469AFF3B5A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-微信分享测试UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		186DDB2420C14F0F00632288 /* Sources */ = {
@@ -431,15 +621,18 @@
 		};
 		186DDB5520C14F1000632288 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 818DD8B177B11D10E20BBF5B /* Pods-微信分享测试.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 74K483LR5N;
 				INFOPLIST_FILE = "微信分享测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.newyifenqi.------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.newyifenqi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -447,15 +640,18 @@
 		};
 		186DDB5620C14F1000632288 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC547A90825C7C2F607656F1 /* Pods-微信分享测试.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 74K483LR5N;
 				INFOPLIST_FILE = "微信分享测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.newyifenqi.------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.newyifenqi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -463,6 +659,7 @@
 		};
 		186DDB5820C14F1000632288 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A2D98A60F87BE72E49B82506 /* Pods-微信分享测试Tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -481,6 +678,7 @@
 		};
 		186DDB5920C14F1000632288 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C357E2E14369D91152CCCF6 /* Pods-微信分享测试Tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -499,6 +697,7 @@
 		};
 		186DDB5B20C14F1000632288 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4FB3D1D341D82A1B21743FFB /* Pods-微信分享测试UITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "微信分享测试UITests/Info.plist";
@@ -516,6 +715,7 @@
 		};
 		186DDB5C20C14F1000632288 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 867551ADE7116AF5FDD35D85 /* Pods-微信分享测试UITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "微信分享测试UITests/Info.plist";
